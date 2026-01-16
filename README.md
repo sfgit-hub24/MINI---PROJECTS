@@ -5,8 +5,6 @@ This repository consists of my academic practice code written to strengthen unde
 - Java
 - MySQL
 - Basic Data Structures
-## Projects Included
-- Java GUI Applications 
 ## Included Work
 - C Data Structures programs (PDF format)
 - Covers arrays, linked lists, stacks, queues, and searching techniques
